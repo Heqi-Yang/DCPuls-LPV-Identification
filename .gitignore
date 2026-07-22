@@ -1,0 +1,20 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+*.mat
+*.fig
+*.mex*
+slprj/
+codegen/
+
+# MATLAB crash and profiling output
+matlab_crash_dump.*
+profile_results/
+
+# Operating-system and editor metadata
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
